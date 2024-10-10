@@ -1,0 +1,12 @@
+apiVersion: example.org/v1alpha1
+kind: xLandingZone
+metadata:
+  name: landingzone
+  namespace: testing
+spec:
+  cluster:
+    development: minikube
+    staging:
+    production:
+  namespace: massi
+
