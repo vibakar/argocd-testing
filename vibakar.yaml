@@ -8,4 +8,4 @@ spec:
     development: minikube
     staging:
     production:
-  namespace: vibakar
+  namespace: vibakar123
